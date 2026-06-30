@@ -56,7 +56,7 @@ Investigación cualitativa con análisis de contenido, encuestas y ATLAS.ti sobr
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-navearod/)
 [![Portafolio](https://img.shields.io/badge/Portafolio_Web-000000?style=flat&logo=github&logoColor=white)](https://rnavea-r.github.io/portafolio-romina-navea-rodriguez)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:romina.navea.rod@gmail.com)
 
