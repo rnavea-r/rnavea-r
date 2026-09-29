@@ -15,7 +15,6 @@ Actualmente en formación intensiva (Bootcamp Data Analytics 600h, Factoria F5) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_avanzado-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -27,13 +26,12 @@ Actualmente en formación intensiva (Bootcamp Data Analytics 600h, Factoria F5) 
 
 ## 📂 Proyectos
 
-> 🚧 En construcción — iré subiendo proyectos del bootcamp a medida que los complete.
 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
-| Próximamente | Limpieza y EDA de datasets reales | Python, Pandas |
-| Próximamente | Dashboard de visualización | Power BI / Tableau |
-| Próximamente | Análisis predictivo | Python, ML básico |
+| [Pipeline de Datos Sakila: De la Extracción con Python al Dashboard en Excel](https://github.com/Bootcamp-DA-P2/Proyecto-Automatizaci-n-MySQL-Python-Excel-Grupo2)| Limpieza y EDA de datasets reales | Python, Pandas |
+| [Proyecto de Análisis de Datos: Airbnb Performance](https://github.com/Bootcamp-DA-P2/DA_proyect_Analisis_PowerBI_grupo3) | Dashboard de visualización | Power BI |
+| [OncoLens: Plataforma de Clasificacion de Cancer con RNA-Seq (MLOps + Produccion)](https://github.com/rnavea-r/OncoLens-portafolio) | Análisis predictivo | Python, ML básico |
 
 ---
 
