@@ -1,4 +1,4 @@
-# Hola, soy Romina Navea 👋
+# Hola, soy Romina Navea Rodríguez👋
 
 ### Data Analyst Junior | Communication + Data | Málaga, Spain 🇪🇸
 
